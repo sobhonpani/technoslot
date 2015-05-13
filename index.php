@@ -1,3 +1,4 @@
 <?php
- echo phpinfo();
+ require_once 'App.php';
+ $app=new app();
 ?>
