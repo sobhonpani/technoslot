@@ -1,0 +1,2 @@
+# technoslot
+bloggin software
